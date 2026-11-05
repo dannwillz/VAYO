@@ -8,7 +8,7 @@ The project features a responsive, multi-page web application built with React, 
 
 Explore the website:
 
-**[VAYO – Live Preview](https://vayo-dannwillzs-projects.vercel.app/)**
+**[VAYO – Live Preview](https://vayo-gamma.vercel.app/)**
 
 ## Project Overview
 
